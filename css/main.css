@@ -1,0 +1,9 @@
+.navbar{
+    z-index: 100000;
+}
+
+.containerVideo{
+    text-align: center;
+    margin: 10px;
+    width: 100%;
+}

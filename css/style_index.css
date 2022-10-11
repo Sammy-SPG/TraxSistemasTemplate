@@ -1,0 +1,80 @@
+.container-slider {
+    margin-top: -10px;
+    width: 100%;
+}
+
+.carousel-item > img{
+    /* width: 80%; */
+    height: 90vh;
+}
+
+.carousel-caption{
+    position: absolute;
+}
+
+.carousel-caption > .font-title{
+    position: relative;
+    top: -30vh;
+    right: 20vw;
+    font-size: 3.8rem;
+}
+
+.carousel-caption > .font-dark{
+    position: relative;
+    top: -31vh;
+    right: 16vw;
+    font-size: 2rem;
+    color: #292929;
+}
+
+.carousel-caption > .font-foother{
+    position: relative;
+    top: -8vh;
+    left: 10vw;
+}
+
+.container-aspel{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 30px;
+}
+
+.container-aspel > .btn{
+    width: 100%;
+    margin: 5px;
+}
+
+
+/* services */
+
+.containerServices{
+    margin-top: 25px;
+}
+
+.containerServices > h3{
+    margin: 8px;
+    text-align: center;
+}
+
+.containerServices-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
+    grid-gap: 3rem;
+}
+
+.service{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.service > img{
+    width: 98px;
+    height: 99px;
+}
+
+.service > div{
+    margin: 12px;
+}
+
