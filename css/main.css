@@ -7,3 +7,28 @@
     margin: 10px;
     width: 100%;
 }
+.container-foother{
+    background:#17202a;
+    color:#eeee;
+
+}
+.container-foother>p {
+    text-align: center;
+    
+}
+.container-foother-service{
+    padding: 8px;
+    text-align: center;
+    display: grid;
+    grid-template-rows: repeat(2,1fr);
+    grid-template-columns: repeat(4,1fr);
+}
+.container-foother-service>a{
+    text-decoration: none;
+    color:#eeee;
+}
+.container-foother-contac{
+    padding: 8px;
+    display: flex;
+    justify-content: space-evenly;
+}
