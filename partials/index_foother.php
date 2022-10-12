@@ -11,9 +11,11 @@
         </div>
         <div class="container-foother-contac">
             <div class="numero">
+                <h4>Telefono</h4>
                 558367-8850 / 552132-1586
             </div>
             <div class="gmail">
+                <h4>Correos</h4>
                 <p>ventas@traxsistemas.com.mx</p>
                 <p>soporte@traxsistemas.com.mx</p>
                 <p>atencionaclientes@traxsistemas.com.mx</p>

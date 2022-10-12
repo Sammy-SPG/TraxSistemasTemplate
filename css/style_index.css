@@ -52,11 +52,6 @@
     margin-top: 25px;
 }
 
-.containerServices > h3{
-    margin: 8px;
-    text-align: center;
-}
-
 .containerServices-grid{
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));

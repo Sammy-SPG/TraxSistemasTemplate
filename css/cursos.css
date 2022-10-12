@@ -1,0 +1,54 @@
+.containerImg{
+    position: relative;
+    margin-bottom: 8%;
+}
+
+.img-curso{
+    width: 100%;
+}
+
+.svg{
+    position: absolute;
+    width: 100%;
+    bottom: -15%;
+}
+
+.container-cursos-head{
+    text-align: center;
+    margin: 8px;
+}
+
+.container-cursos-head > h4{
+    color: #E74C3C;
+}
+
+.container-links-cursos{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+
+.container-links-cursos > a{
+    text-decoration: none;
+    color: #3498DB;
+}
+
+.cursos-description-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(25rem, 1fr));
+    grid-gap: 20px;
+}
+
+.grid-container{
+    margin-top: 15px;
+}
+
+.grid-container > img{
+    width: 100%;
+}
+
+.grid-container > p{
+    padding: 8px;
+    color: #566573;
+}
