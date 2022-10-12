@@ -73,3 +73,7 @@
     margin: 12px;
 }
 
+.modal-body > img{
+    max-width: 100%;
+}
+

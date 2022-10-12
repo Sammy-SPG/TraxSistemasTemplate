@@ -14,7 +14,7 @@
                     <a class="nav-link" href="./cursos.php">Cursos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Servicios</a>
+                    <a class="nav-link" href="./servicios.php">Servicios</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#">Diseno</a>

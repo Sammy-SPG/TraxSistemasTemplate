@@ -2,7 +2,6 @@
 <link rel="stylesheet" href="./css/cursos.css">
 <title>Document</title>
 </head>
-
 <body>
     <?php include('./partials/index_nabvar.php') ?>
     <div class="containerImg">
@@ -28,46 +27,48 @@
                 <a href="">EDITORES</a>
                 <a href="">E-FACTURE</a>
             </div>
-            <div>
-                <img src="" alt="">
-                <p>Cursos disponibles para Aspel-SAE</p>
-                <p>Sistema Administrativo Empresarial</p>
-            </div>
-            <div class="container-table">
-                <table class="table table-hover">
-                    <thead>
-                        <tr>
-                            <th scope="col">Nivel</th>
-                            <th scope="col">Version</th>
-                            <th scope="col">Temario</th>
-                            <th scope="col">Duracion</th>
-                            <th scope="col">Precios</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <th scope="row">Basico</th>
-                            <td>7.0</td>
-                            <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
-                            <td>15 horas</td>
-                            <td>$2,499 + IVA</td>
-                        </tr>
-                        <tr>
-                            <th scope="row">Intermedio</th>
-                            <td>7.0</td>
-                            <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
-                            <td>15 horas</td>
-                            <td>$2,499 + IVA</td>
-                        </tr>
-                        <tr>
-                        <th scope="row">Avanzado</th>
-                            <td>7.0</td>
-                            <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
-                            <td>15 horas</td>
-                            <td>$2,499 + IVA</td>
-                        </tr>
-                    </tbody>
-                </table>
+            <div class="container-aspelSae">
+                <div class="aspelSae">
+                    <img src="images/logos aspel/ASPEL-ICONO-VERT_SAE.png" alt="">
+                    <h6>Cursos disponibles para Aspel-SAE</h6>
+                    <h6>Sistema Administrativo Empresarial</h6>
+                </div>
+                <div class="container-table">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th scope="col">Nivel</th>
+                                <th scope="col">Version</th>
+                                <th scope="col">Temario</th>
+                                <th scope="col">Duracion</th>
+                                <th scope="col">Precios</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <th scope="row">Basico</th>
+                                <td>7.0</td>
+                                <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
+                                <td>15 horas</td>
+                                <td>$2,499 + IVA</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Intermedio</th>
+                                <td>7.0</td>
+                                <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
+                                <td>15 horas</td>
+                                <td>$2,499 + IVA</td>
+                            </tr>
+                            <tr>
+                                <th scope="row">Avanzado</th>
+                                <td>7.0</td>
+                                <td><a href=".pdf"><img src="./images/documento.png" alt="" width="40" height="40"></a></td>
+                                <td>15 horas</td>
+                                <td>$2,499 + IVA</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
             </div>
             <div class="cursos-description">
                 <div class="cursos-description-grid">

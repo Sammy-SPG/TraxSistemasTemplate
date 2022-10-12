@@ -1,0 +1,34 @@
+.containerImg{
+    position: relative;
+    margin-bottom: 8%;
+}
+
+.img-curso{
+    width: 100%;
+}
+
+.svg{
+    position: absolute;
+    width: 100%;
+    bottom: -12%;
+}
+
+.container-asesorias-grid{
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
+    grid-gap: 20px;
+}
+
+.container-template-asesorias{
+    margin-top: 5vh;
+    margin-bottom: 6vh;
+}
+
+.template-asesorias{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.template-asesorias > div{
+    margin-left: 10px;
+}

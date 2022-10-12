@@ -10,7 +10,7 @@
 .svg{
     position: absolute;
     width: 100%;
-    bottom: -15%;
+    bottom: -12%;
 }
 
 .container-cursos-head{
@@ -20,6 +20,11 @@
 
 .container-cursos-head > h4{
     color: #E74C3C;
+    margin: 5px;
+}
+
+.container-cursos-head > h5{
+    margin: 8px;
 }
 
 .container-links-cursos{
@@ -32,6 +37,28 @@
 .container-links-cursos > a{
     text-decoration: none;
     color: #3498DB;
+}
+
+.container-aspelSae{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+.container-aspelSae > .container-table{
+    width: 70%;
+}
+
+.aspelSae > h6{
+    font-weight: normal;
+    font-size: 0.8rem;
+}
+
+.cursos-description{
+    margin-top: 8vh;
+    margin-bottom: 8vh;
 }
 
 .cursos-description-grid{
