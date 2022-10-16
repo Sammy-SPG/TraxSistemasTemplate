@@ -1,0 +1,15 @@
+.container-diseno-grid{
+    margin: 15px;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(30rem, 1fr));
+}
+
+.container-diseno{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.container > img {
+    width: 100%;
+}

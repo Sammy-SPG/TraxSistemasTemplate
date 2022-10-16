@@ -1,0 +1,13 @@
+.container-msg{
+    margin-bottom: 5vh;
+    margin-top: 5vh;
+    text-align: center;
+}
+
+.container-from{
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 6px rgba(0, 0, 0, 0.5);
+}

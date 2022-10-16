@@ -17,13 +17,13 @@
                     <a class="nav-link" href="./servicios.php">Servicios</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Diseno</a>
+                    <a class="nav-link" href="./diseno.php">Diseno</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Descargas</a>
+                    <a class="nav-link" href="./descargas.php">Descargas</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Contacto</a>
+                    <a class="nav-link" href="./contacto.php">Contacto</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Promociones</a>

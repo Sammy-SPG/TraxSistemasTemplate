@@ -1,18 +1,3 @@
-.containerImg{
-    position: relative;
-    margin-bottom: 8%;
-}
-
-.img-curso{
-    width: 100%;
-}
-
-.svg{
-    position: absolute;
-    width: 100%;
-    bottom: -12%;
-}
-
 .container-cursos-head{
     text-align: center;
     margin: 8px;
@@ -78,4 +63,10 @@
 .grid-container > p{
     padding: 8px;
     color: #566573;
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+    .container-aspelSae{
+        flex-direction: column;
+    }
 }
